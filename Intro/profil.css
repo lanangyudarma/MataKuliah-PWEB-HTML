@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    background-color: #f0f8ff;
+}
+
+h1, h2 {
+    color: blue;
+}
+
+p {
+    margin: 15px 0;
+}
