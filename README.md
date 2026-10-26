@@ -6,7 +6,7 @@ Proyek ini berisi kumpulan tugas dan praktikum mata kuliah Pemrograman Web, mula
 - **Nama:** I Gede Arya Lanang Yudarma
 - **NIM:** 103092430001
 - **Program Studi:** Teknologi Informasi
-- **Aktivitas:** Public Relations and Partnership HIMATISI | Panitia C.O.D.E Challenge 2026
+- **Aktivitas:** Public Relations and Partnership HIMATISI |
 
 ---
 
@@ -48,12 +48,22 @@ Agar gambar responsif menyesuaikan ukuran layar perangkat, tambahkan class `.img
 
 ## Tugas Modul 6 - JavaScript & jQuery
 
-### Tugas 1: Form Input (JavaScript)
+### 1. Penjelasan JavaScript dan Kegunaannya
+JavaScript adalah bahasa pemrograman yang berjalan di sisi klien (browser) yang berfungsi untuk membuat halaman web menjadi lebih interaktif. Kegunaan utamanya meliputi kemampuan untuk menyisipkan teks atau tag dinamis ke dalam HTML, merespons kejadian dari pengguna (seperti klik, memuat halaman, atau input), serta menjalankan proses logika langsung di komputer pengguna seperti validasi form atau perhitungan harga.   
+
+### 2. Penjelasan jQuery dan Kegunaannya
+jQuery adalah sebuah framework atau pustaka JavaScript yang ringan dengan prinsip "menulis lebih sedikit, melakukan lebih banyak" (*write less, do more*). Kegunaannya adalah untuk mempermudah penggunaan JavaScript di situs web dengan cara membungkus tugas-tugas umum yang biasanya membutuhkan banyak baris kode JavaScript menjadi metode praktis yang dapat dipanggil hanya dengan satu baris kode.
+
+### 3. Perbedaan JavaScript dan jQuery
+*   **JavaScript** adalah bahasa pemrogramannya itu sendiri yang beroperasi pada *client-side* untuk mengontrol logika dan interaktivitas.   
+*   **jQuery** adalah framework yang dibangun di atas JavaScript yang ditujukan secara khusus untuk menyederhanakan penulisan kode JavaScript murni. Manipulasi elemen HTML, penanganan kejadian (*event handling*), dan manipulasi CSS yang rumit di JavaScript dapat diselesaikan jauh lebih singkat menggunakan sintaks jQuery.
+
+### 4. Tugas 1: Form Input (JavaScript)
 ![Tugas 1 - JS](https://github.com/user-attachments/assets/9f9bddbd-e9ea-4de5-a581-18c4db881718)
 ![Tugas 1 - JS](https://github.com/user-attachments/assets/510920bf-e3b5-4a95-a2de-f8dee089aff5)
 ![Tugas 1 - JS](https://github.com/user-attachments/assets/d21b5b71-91c9-45a4-9485-b5fb786fb83c)
 
-### Tugas 2: Manipulasi DOM (jQuery)
+### 5. Tugas 2: Manipulasi DOM (jQuery)
 ![Tugas 2 - jQuery](https://github.com/user-attachments/assets/d3df0ce7-53d5-4227-a1a1-c9574e6cfa48)
 ![Tugas 2 - jQuery](https://github.com/user-attachments/assets/c5f106fa-d6d4-48ea-bb83-466992a00d23)
 ![Tugas 2 - jQuery](https://github.com/user-attachments/assets/ddb3bd7e-8511-4187-81c6-4a39fa6e66f6)
